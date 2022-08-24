@@ -8,3 +8,5 @@ https://github.com/crashworks3d/Iron_Man_Servo
 
 The files used were free to use, made by Levy3D on instagram: 
 https://www.instagram.com/levy3d/?hl=en
+
+All other parts used to modify this helmet is uploaded to the repository
